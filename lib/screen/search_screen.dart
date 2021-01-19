@@ -72,7 +72,7 @@ class _SearchScreenState extends State<SearchScreen> {
           Padding(padding: EdgeInsets.all(10)),
           Container(
             color: Colors.black,
-            padding: EdgeInsets.fromLTRB(5, 10, 5, 10),
+            padding: EdgeInsets.fromLTRB(5, 5, 5, 5),
             child: Row(
               children: <Widget>[
                 Expanded(
